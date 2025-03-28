@@ -1,5 +1,5 @@
 function mostrarMensagem() {
-alert("Bootstrap funcionando no Replit! 🚀");
+alert("");
 }
 // Simples validação do formulário
 document.getElementById("contatoForm").addEventListener("submit",
